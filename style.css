@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body   {
+    background-color: #4158D0;
+    }
+header{
+    display: flex;
+    background-color: #4158D0;
+     width: 90%;
+     margin: auto;
+}
+
+.logo-container{
+    background: hsla(184, 100%, 61%, 0.904);
+    flex: 1;
+
+}
+
+nav{
+    background: content-box;
+
+}
+
+.cart{
+    background: rgb(182, 235, 151);
+}
